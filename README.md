@@ -24,26 +24,26 @@ The basic operations that can be done using this programme are
 
 The screenshots of the operations are provided below
 
-                              Menu
+                              `Menu`
 
 <img src="https://github.com/DGclasher/phonebook-application/blob/main/img/1.jpg">
 
-                         Adding a new Contact
+                        `Adding a new Contact`
 
 <img src="https://github.com/DGclasher/phonebook-application/blob/main/img/2.jpg">
 
-                        Searching for a Contact
+                        `Searching for a Contact`
 
 <img src="https://github.com/DGclasher/phonebook-application/blob/main/img/3.jpg">
 
-                         List all Contacts
+                         `List all Contacts`
                          
 <img src="https://github.com/DGclasher/phonebook-application/blob/main/img/4.jpg">
 
-                         Modify a Contact
+                         `Modify a Contact`
                          
 <img src="https://github.com/DGclasher/phonebook-application/blob/main/img/5.jpg">
 
-                         Delete a Contact
+                         `Delete a Contact`
 
 <img src="https://github.com/DGclasher/phonebook-application/blob/main/img/6.jpg">
