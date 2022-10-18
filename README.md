@@ -2,7 +2,7 @@
 
 This is a simple phonebook application made using the concepts of Data Structures and Algorithms
 
-To use this application, you must download the C file which can be achieved using the following command
+To use this application, you must download the C file which can be achieved using the following command (In windows powershell terminal)
   
      wget https://github.com/DGclasher/phonebook-application/raw/main/phonebook.c -o phonebook.c
   
