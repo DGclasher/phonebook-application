@@ -307,7 +307,7 @@ void exitfun()
 	gotoxy(31, 4);
 	printf("\xDB\xDB\xDB\xDB CREATED BY \xDB\xDB\xDB\xDB");
 	gotoxy(31, 6);
-	printf("\xDB DEBA GHOSH.");
+	printf("\xDB DGclasher");
 }
 void start()
 {
