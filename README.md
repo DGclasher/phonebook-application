@@ -1,6 +1,6 @@
 # Phonebook Application
 
-This is a simple phonebook application made using the concepts of Data Structures and Algorithms
+A simple Phonebook Application
 
 To use this application, you must download the C file which can be achieved using the following command (In windows powershell terminal)
   
