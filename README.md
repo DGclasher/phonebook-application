@@ -4,13 +4,15 @@ A simple Phonebook Application
 
 Clone this repo:
 
-     git clone https://github.com/DGclasher/phonebook-application<br>
-     cd phonebook-application  
-Compile it with gcc
+     git clone https://github.com/DGclasher/phonebook-application
+     
+     cd phonebook-application
+     
+Compile it:
 
     gcc phonebook.c -o phonebook
    
-Now it can be executed
+Execute it:
    
     ./phonebook.exe
    
