@@ -2,10 +2,10 @@
 
 A simple Phonebook Application
 
-To use this application, you must download the C file which can be achieved using the following command (In windows powershell terminal)
-  
-     wget https://github.com/DGclasher/phonebook-application/raw/main/phonebook.c -o phonebook.c
-  
+Clone this repo:
+
+     git clone https://github.com/DGclasher/phonebook-application<br>
+     cd phonebook-application  
 Compile it with gcc
 
     gcc phonebook.c -o phonebook
